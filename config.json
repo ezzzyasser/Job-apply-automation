@@ -1,0 +1,36 @@
+{
+  "email": "ezzyasser360@gmail.com",
+  "password": "26122001Ezz",
+  "keywords": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Computer Vision Engineer",
+    "AI Automation",
+    "Data Science",
+    "AI Developer",
+    "NLP",
+    "Automation Developer"],
+  "location": "Egypt",
+  "headless": false,
+  "storage_state_path": "auth.json",
+  "login_url": "https://www.linkedin.com/login",
+  "max_jobs_per_run": 0,
+  "memory_path": "memory.json",
+  "run_log_path": "run_logs.jsonl",
+  "ai_cv_path": "cv/Ezzeldein yasser_(AI Engineer_CV).pdf",
+  "general_cv_path": "cv/Ezzeldein yasser_(AI Engineer_CV).pdf",
+  "min_delay_seconds": 1.0,
+  "max_delay_seconds": 2.5,
+  "max_accepted_min_experience_years": 1,
+  "user_profile_path": "profile.txt",
+  "ollama": {
+    "enabled": false,
+    "base_url": "http://127.0.0.1:11434",
+    "model": "llama3.1",
+    "timeout_seconds": 120,
+    "max_description_chars": 8000,
+    "auto_cover_letter": true,
+    "auto_tailor_fields": true,
+    "output_tailored_dir": "tailored_out"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "input:text::location (city) location (city)": "cairo, egypt",
+  "input:text::headline": "junior ai engineer",
+  "textarea:text::summary": "fresh garduatejunior ai engineer specializing in machine learning, computer vision and natural language processing (nlp). skilled in designing and implementing and to end ai systems, including data preprocessing, model training, evaluation, and prototype deployment. experienced in solving real-word problems using deep learning, classical machine learning techiques and automation, with a strong focus on partical, saclable solutions.",
+  "textarea:text::linkedin url": "http://www.linkedin.com/in/ezzeldein-yasser-42a794170/",
+  "input:text::expected salary": "12000",
+  "input:text::what is your nationality?": "egyption",
+  "input:text::how long is your notice period?": "immediatly",
+  "input:text::what is your current salary in egp?": "0",
+  "input:text::what is your expected salary in egp?": "12000",
+  "textarea:text::how many years of hands-on experience do you have building and deploying voice agents?": "0",
+  "textarea:text::what programming languages do you use and why?": "python becouse it is the flexable one and easy to do any thing and in my majore it is the top one",
+  "textarea:text::which voice systems (asr, tts, or conversational ivr) do you have experience with?": "no one i never worked with voices before so it is oprtynity to learn new thing",
+  "textarea:text::what is your nationality?": "egyption",
+  "textarea:text::what is your current salary in usd?": "0",
+  "textarea:text::what is your salary expectation in usd?": "250-350",
+  "input:text::what is your notice period?": "immediatly",
+  "input:text::what is your notice period ?": "immediatly",
+  "input:text::what is your expected salary ?": "12000",
+  "input:text::linkedin": "http://www.linkedin.com/in/ezzeldein-yasser-42a794170/",
+  "input:text::what is your current location?": "cairo, egypt",
+  "input:text::how many years of work experience do you have with blockchain?": "0"
+}
